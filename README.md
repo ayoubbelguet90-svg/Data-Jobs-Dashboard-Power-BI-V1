@@ -39,5 +39,7 @@ An interactive, end-to-end Business Intelligence solution designed to analyze gl
 * **Correlation Mapping:** Leveraged a Scatter Plot layout to map the interaction between hourly rates and yearly salaries, allowing quick identification of financial outliers.
 * **Geospatial Analytics:** Bound geolocation datasets directly to automated map visual layers for interactive global job-density mapping.
 
+<img width="1350" height="560" alt="Animation Power BI" src="https://github.com/user-attachments/assets/68f79fa4-859d-45f5-b90d-b03e32d21f53" />
+
 ---
 * AYOUB BELGUET
