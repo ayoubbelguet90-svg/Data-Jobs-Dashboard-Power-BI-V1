@@ -41,5 +41,19 @@ An interactive, end-to-end Business Intelligence solution designed to analyze gl
 
 <img width="1350" height="560" alt="Animation Power BI" src="https://github.com/user-attachments/assets/68f79fa4-859d-45f5-b90d-b03e32d21f53" />
 
----
+---<div align="center">
+
+### 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-belguet-bi/)
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Built with Power BI Desktop · Power Query · DAX**
+
+</div>
 * AYOUB BELGUET
